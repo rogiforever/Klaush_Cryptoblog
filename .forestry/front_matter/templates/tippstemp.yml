@@ -19,5 +19,3 @@ fields:
   config:
     required: false
   label: description
-pages:
-- content/data/tipps.json
