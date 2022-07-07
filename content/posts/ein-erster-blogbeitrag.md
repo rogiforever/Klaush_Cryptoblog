@@ -13,4 +13,8 @@ Und noch eine Zeile geschrieben
 
 Initiale Beispielübersicht:
 
-![](/content/images/graph.png)
+von Github
+
+![](/content/images/graph.png)von Mastodon
+
+![](https://media.weingaertner-it.de/mastodontech/media_attachments/files/108/600/148/327/736/638/original/d4e2877c2828ec2e.png)
