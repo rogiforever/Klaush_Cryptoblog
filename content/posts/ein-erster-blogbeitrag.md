@@ -11,3 +11,7 @@ Ursprünglich wollte ich mich einfach nur mal mit IPFS (InterPlanetary File Syst
 
 Ich interessiere mich für Crypto schon seit 2014. Ich werde zu solchen Themen hier meinen Senf dazu geben. Inbesondere das Projekt [https://moonerradar.com/](https://moonerradar.com/) hat mich motiviert mich wieder aktiver um das Thema Crypto zu kümmern.  
 Ich glaube die Idee wird sein, dass was den Rahmen der Funksprüche bei Moonerradar sprengen würde, ich einfach mal hier in den Blog schreiben werde.
+
+Ich glaube aber nicht, dass ich hier regelmässig schreiben werde - einfach wenn ich Lust habe etwas zu kommentieren schreibe ich etwas. 
+
+P.S. falls ihr mal das ENS testen möchtet, Spenden an "klaush.eth" sind immer willkommen (einfach im Metamask oder einer anderen Wallet, die ENS kann "klaus.eth" beim Empfänger angeben  ;-) )
