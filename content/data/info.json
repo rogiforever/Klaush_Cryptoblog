@@ -1,6 +1,6 @@
 {
-  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p><p>Testinfo</p>",
-  "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
+  "description": "<p>This blog was created using <a href=\"https://forestry.io/\" title=\"Forestry Link\">Forestry</a> &amp; <a href=\"https://www.gatsbyjs.org/\" title=\"Gatsby Link\">Gatsby</a></p>",
+  "cta": "<p>Ihr könnt mich über meinen Mastodon Account (freie Twitter Alternative) kontaktieren:</p><p>&lt;iframe src=\"https://mastodontech.de/@klaush/108614319739106121/embed\" class=\"mastodon-embed\" style=\"max-width: 100%; border: 0\" width=\"400\" allowfullscreen=\"allowfullscreen\"&gt;&lt;/iframe&gt;&lt;script src=\"https://mastodontech.de/embed.js\" async=\"async\"&gt;&lt;/script&gt;</p><p>Freue über Feedback!</p>",
   "contact": {
     "email": "info@forestry.io",
     "twitter_handle": "forestryio",
