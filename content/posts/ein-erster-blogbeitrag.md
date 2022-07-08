@@ -9,5 +9,5 @@ Ursprünglich wollte ich mich einfach nur mal mit IPFS (InterPlanetary File Syst
 
 # Über was möchte ich hier schreiben?
 
-Ich interessiere mich für Crypto schon seit 2014. Ich werde zu solchen Themen hier meinen Senf dazu geben. Inbesondere das Projekt https://moonerradar.com/ hat mich motiviert mich wieder aktiver um das Thema Crypto zu kümmern.  
+Ich interessiere mich für Crypto schon seit 2014. Ich werde zu solchen Themen hier meinen Senf dazu geben. Inbesondere das Projekt [https://moonerradar.com/](https://moonerradar.com/) hat mich motiviert mich wieder aktiver um das Thema Crypto zu kümmern.  
 Ich glaube die Idee wird sein, dass was den Rahmen der Funksprüche bei Moonerradar sprengen würde, ich einfach mal hier in den Blog schreiben werde.
