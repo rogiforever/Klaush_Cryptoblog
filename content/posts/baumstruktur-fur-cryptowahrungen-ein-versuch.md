@@ -1,7 +1,7 @@
 ---
 date: 2022-07-08T22:41:34Z
 hero_image: "/content/images/igor-son-FV_PxCqgtwc-unsplash.jpg"
-title: Baumstruktur für Cryptowährungen - ein Versuch
+title: Baumstruktur für Cryptowährungen - ein Versuch (Update)
 author: Klaush
 
 ---
@@ -10,8 +10,11 @@ Anbei ein allererster Versuch mich umtreibende Cryptowährungen in eine Art Baum
 Einige Kategorien habe ich mir selbst ausgedacht und andere habe ich von anderen Webseiten / von Cryptoprotagonisten übernommen.  
 Natürlich erhebt diese Grafik keinen Anspruch auf Vollständigkeit.
 
-![](https://media.weingaertner-it.de/mastodontech/media_attachments/files/108/614/268/361/086/697/original/efe5964c7d428f76.png)
+\[08.07.22: initiale Version\]  
+\[Update: 09.07.22: habe Feedback der[ moonerradar.com](www.moonerradar.com) Community eingebaut sowie einige weitere Verbesserungen\]
+
+![](https://media.weingaertner-it.de/mastodontech/media_attachments/files/108/617/418/710/363/050/original/cf018b14929ccd55.png)
 
 Feedback könnt ihr mir gerne auf Moonerradar.com oder auf Mastodon (Twitter ähnliche Plattform, aber "frei") hinterlassen:
 
-<iframe src="https://mastodontech.de/@klaush/108614268762574083/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodontech.de/embed.js" async="async"></script>
+[https://mastodontech.de/@klaush/108617422274001363](https://mastodontech.de/@klaush/108617422274001363)
